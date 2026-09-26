@@ -1,129 +1,132 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a1040,70:2d1b6b,100:0d0d2b&height=220&section=header&text=Sachin+Kumar&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack+Engineer+%C2%B7+DSA+%C2%B7+Cloud+%26+DevOps&descSize=17&descAlignY=64&descColor=8892b0" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Sachin%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20DSA%20%7C%20DevOps%20%7C%20Cloud&descSize=18&descAlignY=58&descColor=c9d1d9" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=7B7FE8&center=true&vCenter=true&width=720&lines=Building+production-grade+MERN+applications;300%2B+DSA+problems+solved+in+C%2B%2B;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;LeetCode+100-Day+Badge+2026;B.Tech+CSE+%40+LPU+%C2%B7+CGPA+8.2+%C2%B7+Placement-ready)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+MERN;Solving+300%2B+DSA+problems+in+C%2B%2B;Shipping+to+AWS+with+Docker+%26+CI%2FCD;LeetCode+100-Day+Badge+2026+%F0%9F%94%A5)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=sachinsharmaa07&color=7B7FE8&style=flat-square&label=profile+views)
 
 </div>
 
+<br>
+
 ---
 
-## 👋 About Me
+## About
 
 ```cpp
-class Sachin {
-    string university = "Lovely Professional University — B.Tech CSE (CGPA: 8.2)";
-    string focus[]    = { "Full-Stack (MERN / Next.js)", "DSA in C++", "DevOps & Cloud" };
-    string status     = "Actively preparing for placements 🎯";
-    int    dsaSolved  = 300; // LeetCode + GFG
-};
-```
+namespace Sachin {
 
-- 🔭 Building **[PrepPal](https://github.com/sachinsharmaa07/PrepPal)** — AI-powered placement prep OS (Next.js · PostgreSQL · Redis · AWS)
-- 💪 Built **[Akhada Analytics](https://github.com/sachinsharmaa07/Akhada-Anlaytics)** — Full-stack fitness intelligence platform (MERN · AWS · Docker)
-- 🧠 Solved **300+ DSA problems** across LeetCode & GFG | C++
-- 🏅 Earned **LeetCode 100-Day Badge 2026**
-- 📜 **Cloud Computing — NPTEL IIT Kharagpur** certified
-- 🎓 **LPU, Punjab** · B.Tech CSE · CGPA **8.2**
+  struct Profile {
+    const char* university = "Lovely Professional University · B.Tech CSE";
+    const char* cgpa       = "8.2";
+    const char* location   = "Punjab, India";
+    const char* status     = "Placement-ready · open to SDE / Full-Stack roles";
+  };
+
+  const std::vector<std::string> focus = {
+    "Full-Stack Engineering  —  MERN · Next.js · TypeScript",
+    "Data Structures & Algorithms  —  C++  ·  300+ problems",
+    "Cloud Infrastructure  —  AWS · Docker · Kubernetes · CI/CD"
+  };
+
+  struct CurrentProject {
+    const char* name  = "PrepPal";
+    const char* what  = "AI-powered placement OS: Judge0 sandboxing + Gemini ATS analysis";
+    const char* infra = "AWS VPC · Load Balancer · Auto Scaling Group · Vercel · Render";
+  };
+
+}  // namespace Sachin
+```
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🤖 [PrepPal](https://github.com/sachinsharmaa07/PrepPal)
-**AI Career Operating System for Placements**
+**[PrepPal](https://github.com/sachinsharmaa07/PrepPal)** — AI Career OS
 
-- 300+ DSA problems aggregated from LeetCode & GFG
-- AI resume/ATS analysis with Gemini + Groq fallback
-- Adaptive mock interviews, sandboxed Judge0 code execution
-- Deployed on AWS (VPC · LB · ASG) + Vercel + Render
+End-to-end placement prep platform. Aggregates 300+ curated DSA problems from LeetCode & GFG, runs ATS/resume scoring through Gemini + Groq fallback, and executes multi-language code in Judge0 sandboxes. Adaptive mock interviews backed by structured rubrics.
 
-**Stack:** `Next.js` `Node.js` `PostgreSQL` `Redis` `AWS` `Docker` `JWT`
+Infrastructure: AWS VPC · Load Balancer · Auto Scaling Group
+
+`Next.js` `Node.js` `PostgreSQL` `Redis` `AWS` `Docker` `JWT`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🏋️ [Akhada Analytics](https://github.com/sachinsharmaa07/Akhada-Anlaytics) · [Live](https://akhada-analytics.vercel.app/login)
-**Mobile-First MERN Fitness Intelligence Platform**
+**[Akhada Analytics](https://github.com/sachinsharmaa07/Akhada-Anlaytics)** — Fitness Intelligence · [live ↗](https://akhada-analytics.vercel.app/login)
 
-- Workout logging with automatic PR detection
-- Interactive Muscle Heatmap (7-day frequency)
-- 900+ item multi-cuisine food database
-- Full CI/CD: GitHub Actions → Docker Hub → AWS EC2
+Mobile-first MERN platform for workout tracking and nutrition. Automatic PR detection on every log, interactive 7-day muscle-group heatmap, 900+ item multi-cuisine food database. Built a full CI/CD pipeline from scratch.
 
-**Stack:** `React` `Node.js` `Express` `MongoDB` `Docker` `AWS` `JWT`
+Pipeline: GitHub Actions → Docker Hub → AWS EC2
+
+`React` `Node.js` `Express` `MongoDB` `Docker` `AWS` `JWT`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 💻 [CodeSach](https://github.com/sachinsharmaa07/CodeSach)
-**Advanced Code Evaluation Platform**
+**[CodeSach](https://github.com/sachinsharmaa07/CodeSach)** — Code Evaluation Platform
 
-- Integrated Judge0 for sandboxed code execution
-- Google OAuth + JWT auth
-- Kubernetes manifests for horizontal scaling
-- GitHub Actions CI/CD → Docker Hub → AWS EC2
+Sandboxed multi-language code execution powered by Judge0. Google OAuth + JWT auth flow, Kubernetes manifests for horizontal pod scaling, automated deployments via GitHub Actions to AWS EC2.
 
-**Stack:** `React` `Node.js` `MongoDB` `Docker` `Kubernetes` `AWS`
+`React` `Node.js` `MongoDB` `Kubernetes` `Docker` `AWS`
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 📚 [E-Lib](https://github.com/sachinsharmaa07/E-Lib)
-**Digital Library Management System**
+**[E-Lib](https://github.com/sachinsharmaa07/E-Lib)** — Digital Library System
 
-- Role-based access: Student, Faculty, Admin
-- Full CRUD book catalogue management
-- JWT authentication with RBAC
-- 2 forks — open source community traction
+Role-based access control for Student, Faculty, and Admin tiers. Full CRUD catalogue management, JWT authentication with RBAC. 2 community forks — open source traction.
 
-**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT`
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
 </td>
 </tr>
@@ -131,48 +134,33 @@ class Sachin {
 
 ---
 
-## 📊 GitHub Stats
+## Activity
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sachinsharmaa07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsharmaa07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsharmaa07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinsharmaa07&theme=tokyo-night&hide_border=true&area=true&area_color=1a1040&color=8892b0&line=7B7FE8&point=ffffff&bg_color=0d0d1a" width="100%"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## Credentials
 
-| 🎯 | Achievement |
+| Achievement | Detail |
 |---|---|
-| 💻 | **300+ DSA problems** solved — LeetCode · GeeksforGeeks |
-| 🔥 | **LeetCode 100-Day Badge 2026** — consistent daily streak |
-| ☁️ | **Cloud Computing — NPTEL IIT Kharagpur** (Apr '25) |
-| 🤖 | **ChatGPT-4 Prompt Engineering & LLM** certified (Jul '25) |
-| 🏅 | **Certificate of Merit** — DSA Summer Training, CPE (Jul '25) |
+| 300+ DSA problems solved | LeetCode · GeeksforGeeks — C++ |
+| LeetCode 100-Day Badge | 2026 — unbroken daily streak |
+| Cloud Computing | NPTEL · IIT Kharagpur · Apr 2025 |
+| Prompt Engineering & LLM | ChatGPT-4 certified · Jul 2025 |
+| Certificate of Merit | DSA Summer Training, CPE · Jul 2025 |
 
 ---
 
-## 📬 Connect
+## Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/sachinsharmaa07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/sachinsharmaa07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:sachinsharmaa1968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-wheat-delta-70.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinsharmaa07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinsharmaa07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-wheat-delta-70.vercel.app)
+[![Gmail](https://img.shields.io/badge/sachinsharmaa1968%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinsharmaa1968@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a1040,70:2d1b6b,100:0d0d2b&height=120&section=footer" width="100%"/>
