@@ -1,166 +1,374 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a1040,70:2d1b6b,100:0d0d2b&height=220&section=header&text=Sachin+Kumar&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack+Engineer+%C2%B7+DSA+%C2%B7+Cloud+%26+DevOps&descSize=17&descAlignY=64&descColor=8892b0" width="100%"/>
-
+````markdown
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=7B7FE8&center=true&vCenter=true&width=720&lines=Building+production-grade+MERN+applications;300%2B+DSA+problems+solved+in+C%2B%2B;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;LeetCode+100-Day+Badge+2026;B.Tech+CSE+%40+LPU+%C2%B7+CGPA+8.2+%C2%B7+Placement-ready)](https://git.io/typing-svg)
+# Sachin Kumar
 
-![Profile Views](https://komarev.com/ghpvc/?username=sachinsharmaa07&color=7B7FE8&style=flat-square&label=profile+views)
+### Full-Stack Developer · Computer Science Student
+
+Building full-stack applications, practicing DSA in C++, and getting deeper into backend architecture and cloud deployment.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sachinsharmaa07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinsharmaa07/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinsharmaa07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-wheat-delta-70.vercel.app/)
 
 </div>
 
-<br>
+---
+
+<p align="center">
+
+<a href="#about">About</a> ·
+<a href="#currently-building">Currently Building</a> ·
+<a href="#tech-stack">Stack</a> ·
+<a href="#featured-projects">Projects</a> ·
+<a href="#architecture">Architecture</a> ·
+<a href="#dsa">DSA</a> ·
+<a href="#credentials">Credentials</a> ·
+<a href="#education">Education</a> ·
+<a href="#contact">Contact</a>
+
+</p>
 
 ---
 
 ## About
 
-```cpp
-namespace Sachin {
+I'm a **B.Tech Computer Science and Engineering student at Lovely Professional University** with a **CGPA of 8.2**, currently preparing for software engineering placements.
 
-  struct Profile {
-    const char* university = "Lovely Professional University · B.Tech CSE";
-    const char* cgpa       = "8.2";
-    const char* location   = "Punjab, India";
-    const char* status     = "Placement-ready · open to SDE / Full-Stack roles";
-  };
+I build full-stack applications with **React, Next.js, Node.js, PostgreSQL and MongoDB**, while practicing DSA primarily in **C++**.
 
-  const std::vector<std::string> focus = {
-    "Full-Stack Engineering  —  MERN · Next.js · TypeScript",
-    "Data Structures & Algorithms  —  C++  ·  300+ problems",
-    "Cloud Infrastructure  —  AWS · Docker · Kubernetes · CI/CD"
-  };
+My current focus is on **backend architecture, REST APIs, authentication, databases, caching, asynchronous processing, system design, AWS, Docker and CI/CD**.
 
-  struct CurrentProject {
-    const char* name  = "PrepPal";
-    const char* what  = "AI-powered placement OS: Judge0 sandboxing + Gemini ATS analysis";
-    const char* infra = "AWS VPC · Load Balancer · Auto Scaling Group · Vercel · Render";
-  };
+---
 
-}  // namespace Sachin
+## Currently Building
+
+```text
+FULL-STACK
+React · Next.js · Node.js · Express
+
+BACKEND
+REST APIs · JWT · RBAC · Socket.IO
+Caching · Rate Limiting · Async Processing
+
+DATABASES
+PostgreSQL · MongoDB · MySQL · Redis
+
+CLOUD / DEVOPS
+AWS · Docker · GitHub Actions · Vercel · Render
+
+PLACEMENT PREP
+DSA · C++ · DBMS · OOP · System Design
 ```
 
 ---
 
-## Stack
+# Tech Stack
 
-**Languages**
+### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+[C++](https://isocpp.org/) ·
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ·
+[Java](https://www.oracle.com/java/) ·
+[C](https://en.cppreference.com/w/c) ·
+[Python](https://www.python.org/) ·
+[SQL](https://en.wikipedia.org/wiki/SQL)
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[React](https://react.dev/) ·
+[Next.js](https://nextjs.org/) ·
+[Tailwind](https://tailwindcss.com/) ·
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) ·
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-**Backend & APIs**
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[Node.js](https://nodejs.org/) ·
+[Express](https://expressjs.com/) ·
+[REST APIs](https://developer.mozilla.org/en-US/docs/Glossary/REST) ·
+[Socket.IO](https://socket.io/) ·
+[JWT](https://jwt.io/)
 
-**Databases**
+### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[PostgreSQL](https://www.postgresql.org/) ·
+[MongoDB](https://www.mongodb.com/) ·
+[MySQL](https://www.mysql.com/) ·
+[Redis](https://redis.io/)
 
-**DevOps & Cloud**
+### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[AWS](https://aws.amazon.com/) ·
+[Docker](https://www.docker.com/) ·
+[GitHub Actions](https://github.com/features/actions) ·
+[Vercel](https://vercel.com/) ·
+[Render](https://render.com/)
 
----
+### Engineering
 
-## Projects
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**[PrepPal](https://github.com/sachinsharmaa07/PrepPal)** — AI Career OS
-
-End-to-end placement prep platform. Aggregates 300+ curated DSA problems from LeetCode & GFG, runs ATS/resume scoring through Gemini + Groq fallback, and executes multi-language code in Judge0 sandboxes. Adaptive mock interviews backed by structured rubrics.
-
-Infrastructure: AWS VPC · Load Balancer · Auto Scaling Group
-
-`Next.js` `Node.js` `PostgreSQL` `Redis` `AWS` `Docker` `JWT`
-
-</td>
-<td valign="top" width="50%">
-
-**[Akhada Analytics](https://github.com/sachinsharmaa07/Akhada-Anlaytics)** — Fitness Intelligence · [live ↗](https://akhada-analytics.vercel.app/login)
-
-Mobile-first MERN platform for workout tracking and nutrition. Automatic PR detection on every log, interactive 7-day muscle-group heatmap, 900+ item multi-cuisine food database. Built a full CI/CD pipeline from scratch.
-
-Pipeline: GitHub Actions → Docker Hub → AWS EC2
-
-`React` `Node.js` `Express` `MongoDB` `Docker` `AWS` `JWT`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**[CodeSach](https://github.com/sachinsharmaa07/CodeSach)** — Code Evaluation Platform
-
-Sandboxed multi-language code execution powered by Judge0. Google OAuth + JWT auth flow, Kubernetes manifests for horizontal pod scaling, automated deployments via GitHub Actions to AWS EC2.
-
-`React` `Node.js` `MongoDB` `Kubernetes` `Docker` `AWS`
-
-</td>
-<td valign="top" width="50%">
-
-**[E-Lib](https://github.com/sachinsharmaa07/E-Lib)** — Digital Library System
-
-Role-based access control for Student, Faculty, and Admin tiers. Full CRUD catalogue management, JWT authentication with RBAC. 2 community forks — open source traction.
-
-`React` `Node.js` `Express` `MongoDB` `JWT`
-
-</td>
-</tr>
-</table>
+`DSA` · `OOP` · `DBMS` · `System Design` · `CI/CD` ·
+`Database Indexing` · `Asynchronous Processing` · `LLM Integration`
 
 ---
 
-## Activity
+# Featured Projects
+
+Projects are the main representation of my engineering work.
+
+---
+
+## 🚀 [PrepPal — Placement Preparation & Hiring Platform](https://github.com/sachinsharmaa07/PrepPal)
+
+**AI-powered placement platform combining DSA practice, resume analysis, mock interviews and recruiter workflows.**
+
+### What I built
+
+- **300+ DSA problems** aggregated from LeetCode, GeeksforGeeks and other platforms
+- AI resume / ATS analysis
+- Adaptive mock interviews
+- Recruiter job posting
+
+### Engineering
+
+- Modular monolith architecture
+- Next.js frontend
+- Node.js REST API
+- PostgreSQL with indexed relational models
+- Full-text search
+- Redis caching
+- Rate limiting
+- Async workers for resume and AI processing
+
+### AI Layer
+
+- [Gemini](https://ai.google.dev/) integration
+- [Groq](https://groq.com/) fallback provider
+- Provider-fallback abstraction
+- Deterministic ATS scoring
+
+### Infrastructure
+
+- AWS VPC
+- Public / private subnets
+- Load Balancer
+- Auto Scaling Group
+- Secure S3 uploads
+- [Judge0](https://judge0.com/) sandboxed code execution
+- Vercel / Render / AWS deployment
+
+<details>
+<summary><strong>Architecture</strong></summary>
+
+```mermaid
+flowchart LR
+    U[User] --> FE[Next.js]
+    FE --> API[Node.js REST API]
+
+    API --> DB[(PostgreSQL)]
+    API --> CACHE[(Redis)]
+    API --> WORKERS[Async Workers]
+    API --> S3[S3]
+    API --> JUDGE[Judge0]
+
+    WORKERS --> GEMINI[Gemini]
+    WORKERS --> GROQ[Groq]
+
+    subgraph AWS[AWS VPC]
+        LB[Load Balancer]
+        ASG[Auto Scaling Group]
+        LB --> ASG
+    end
+```
+
+</details>
+
+**Stack:** `Next.js` `React` `Node.js` `PostgreSQL` `Redis` `AWS` `Docker` `JWT`
+
+**[View Repository →](https://github.com/sachinsharmaa07/PrepPal)**
+
+---
+
+## 🏋️ [Akhada Analytics — Fitness Intelligence Platform](https://github.com/sachinsharmaa07/Akhada-Anlaytics)
+
+**Mobile-first MERN platform for workout tracking, nutrition and body analytics.**
+
+**[Live Demo →](https://akhada-analytics.vercel.app/login)**
+
+### Features
+
+- Workout logging
+- Nutrition tracking
+- Body analytics
+- **900+ item** multi-cuisine food database
+- Interactive Muscle Heatmap
+- 7-day frequency visualization
+- Automatic Personal Record detection
+- Pre-built workout programs
+
+### Engineering
+
+- JWT dual-token authentication
+- Google OAuth
+- MongoDB Atlas
+- Helmet security middleware
+- Rate limiting
+- bcrypt with 12 rounds
+- Token-reuse detection
+
+### Infrastructure
+
+- Vercel
+- Render
+- AWS
+- AWS VPC
+- Public / private subnets
+- Load Balancer
+- Auto Scaling Group
+
+<details>
+<summary><strong>Technical highlights</strong></summary>
+
+The application combines a MERN stack with authentication, database-backed analytics, security middleware and cloud deployment.
+
+The Muscle Heatmap and 7-day frequency visualization turn workout history into a compact training view, while automatic PR detection evaluates workout logs for personal records.
+
+</details>
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Google OAuth` `Vercel` `Render`
+
+**[Repository →](https://github.com/sachinsharmaa07/Akhada-Anlaytics)** · **[Live Demo →](https://akhada-analytics.vercel.app/login)**
+
+---
+
+# Architecture
+
+One of the things I enjoy most is understanding what happens beyond the UI.
+
+For PrepPal, the application flow can be summarized as:
+
+```mermaid
+flowchart TB
+    USER[User]
+
+    USER --> NEXT[Next.js]
+    NEXT --> API[Node.js REST API]
+
+    API --> POSTGRES[(PostgreSQL)]
+    API --> REDIS[(Redis)]
+    API --> WORKERS[Async Workers]
+    API --> S3[S3]
+    API --> JUDGE0[Judge0]
+
+    WORKERS --> GEMINI[Gemini]
+    WORKERS --> GROQ[Groq]
+```
+
+### Infrastructure
+
+```text
+AWS VPC
+│
+├── Public Subnets
+│   └── Load Balancer
+│
+└── Private Subnets
+    └── Auto Scaling Group
+```
+
+The interesting engineering layer is around the application itself:
+
+`Indexed Models` → `Caching` → `Rate Limiting` → `Async Processing` → `Authentication` → `AI Provider Fallback` → `Cloud Deployment`
+
+---
+
+# DSA
+
+### 300+ Problems Solved
+
+I practice DSA primarily in **C++** across:
+
+[LeetCode](https://leetcode.com/u/sachinsharmaa07/) ·
+GeeksforGeeks · other coding platforms
+
+```text
+Arrays
+Linked Lists
+Stacks
+Queues
+Trees
+Graphs
+```
+
+### Milestone
+
+**LeetCode 100-Day Badge — 2026**
+
+**[View LeetCode Profile →](https://leetcode.com/u/sachinsharmaa07/)**
+
+---
+
+# Credentials
+
+### Certifications
+
+**Cloud Computing**  
+[NPTEL · IIT Kharagpur](https://nptel.ac.in/) · Apr 2025
+
+**ChatGPT-4 Prompt Engineering — Generative AI & LLM**  
+Jul 2025
+
+### Training
+
+**Certificate of Merit — DSA Summer Training**  
+Centre for Professional Enhancement · Jul 2025
+
+### Achievement
+
+**300+ DSA problems solved** across LeetCode, GeeksforGeeks and other coding platforms.
+
+**LeetCode 100-Day Badge — 2026**
+
+---
+
+# Education
+
+### Lovely Professional University
+
+**Bachelor of Technology — Computer Science and Engineering**
+
+Punjab, India
+
+**CGPA:** 8.2  
+**Since:** Aug 2023
+
+---
+
+# Contact
+
+I'm easiest to reach through the links below.
+
+| Platform | Link |
+|---|---|
+| GitHub | [github.com/sachinsharmaa07](https://github.com/sachinsharmaa07) |
+| LinkedIn | [linkedin.com/in/sachinsharmaa07](https://linkedin.com/in/sachinsharmaa07/) |
+| LeetCode | [leetcode.com/u/sachinsharmaa07](https://leetcode.com/u/sachinsharmaa07/) |
+| Portfolio | [portfolio-wheat-delta-70.vercel.app](https://portfolio-wheat-delta-70.vercel.app/) |
+| Email | [studentgroup479@gmail.com](mailto:studentgroup479@gmail.com) |
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinsharmaa07&theme=tokyo-night&hide_border=true&area=true&area_color=1a1040&color=8892b0&line=7B7FE8&point=ffffff&bg_color=0d0d1a" width="100%"/>
-</div>
 
----
-
-## Credentials
-
-| Achievement | Detail |
-|---|---|
-| 300+ DSA problems solved | LeetCode · GeeksforGeeks — C++ |
-| LeetCode 100-Day Badge | 2026 — unbroken daily streak |
-| Cloud Computing | NPTEL · IIT Kharagpur · Apr 2025 |
-| Prompt Engineering & LLM | ChatGPT-4 certified · Jul 2025 |
-| Certificate of Merit | DSA Summer Training, CPE · Jul 2025 |
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinsharmaa07/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sachinsharmaa07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-wheat-delta-70.vercel.app)
-[![Gmail](https://img.shields.io/badge/sachinsharmaa1968%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinsharmaa1968@gmail.com)
+[GitHub](https://github.com/sachinsharmaa07) ·
+[LinkedIn](https://linkedin.com/in/sachinsharmaa07/) ·
+[LeetCode](https://leetcode.com/u/sachinsharmaa07/) ·
+[Portfolio](https://portfolio-wheat-delta-70.vercel.app/)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a1040,70:2d1b6b,100:0d0d2b&height=120&section=footer" width="100%"/>
+<sub>Build. Solve. Deploy. Repeat.</sub>
+
+</div>
+````
